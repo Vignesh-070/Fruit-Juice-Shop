@@ -101,6 +101,18 @@ header .navbar {
     justify-content: space-between;
 }
 
+.nav-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+    border-radius: 40px;
+}
+
 .navbar .nav-logo .logo-text {
     color: var(--white-color);
     font-size:var(--font-size-x1);
