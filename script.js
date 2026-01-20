@@ -7,5 +7,3 @@ menuOpenButton.addEventListener("click",() => {
 });
 
 menuCloseButton.addEventListener("click",() => menuOpenButton.click());
-
-// ertyuiop[]
